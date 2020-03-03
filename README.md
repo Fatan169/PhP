@@ -7,7 +7,7 @@
 # HasilTiga
 ![AltText](https://github.com/Fatan169/PhP/blob/master/GB%20Hasil/localhost_modul1php_Latihan1.php%20-%20Google%20Chrome%203_3_2020%207_42_38%20PM.png "Hasil Tiga")
 # HasilEmpat
-![AltText](https://github.com/Fatan169/PhP/blob/master/GB%20Hasil/localhost_modul1php_Latihan1.php%20-%20Google%20Chrome%203_3_2020%207_42_49%20PM.png"Hasil Empat")
+![AltText](https://github.com/Fatan169/PhP/blob/master/GB%20Hasil/localhost_modul1php_Latihan1.php%20-%20Google%20Chrome%203_3_2020%207_42_49%20PM.png "Hasil Empat")
 # HasilLima
 ![AltText](https://github.com/Fatan169/PhP/blob/master/GB%20Hasil/localhost_modul1php_Latihan1.php%20-%20Google%20Chrome%203_3_2020%207_44_01%20PM.png "Hasil Lima")
 # HasilEnam
